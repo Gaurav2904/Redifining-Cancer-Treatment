@@ -1,0 +1,7 @@
+Refrences for the project:
+http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDClassifier.html
+http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDClassifier.html
+https://stackoverflow.com/a/1602964
+https://stackoverflow.com/a/16202486
+https://stackoverflow.com/a/2258273/4084039
+http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html
